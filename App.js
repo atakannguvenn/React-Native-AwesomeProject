@@ -23,7 +23,7 @@ export default class App extends Component<Props> {
       <View style={styles.container}>
         <Text style={styles.welcome}>Welcome to Atakan's App</Text>
         <Text style={styles.instructions}>but he has no idea what he is doing...</Text>
-        <Text style={styles.instructions}>hopefully he will learn this shit...</Text>
+        <Text style={styles.instructions}>hopefully he will learn this shit..</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
