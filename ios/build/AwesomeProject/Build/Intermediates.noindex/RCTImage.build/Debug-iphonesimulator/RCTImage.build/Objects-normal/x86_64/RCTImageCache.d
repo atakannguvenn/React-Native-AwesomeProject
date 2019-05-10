@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageCache.m \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/atakanguven/Desktop/Projects/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageUtils.h

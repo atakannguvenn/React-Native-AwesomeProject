@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/atakanguven/Desktop/Projects/React-Native-AwesomeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
