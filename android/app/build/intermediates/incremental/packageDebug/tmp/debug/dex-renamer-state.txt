@@ -1,0 +1,4 @@
+#Sun May 12 23:22:45 CST 2019
+base.0=C\:\\Users\\Atakan\\Desktop\\Project\\React-Native-AwesomeProject\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
