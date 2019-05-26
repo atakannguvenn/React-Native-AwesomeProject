@@ -106,7 +106,7 @@ ADDED from C:\Users\Atakan\Desktop\Project\React-Native-AwesomeProject\android\a
 	android:label
 		ADDED from C:\Users\Atakan\Desktop\Project\React-Native-AwesomeProject\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from C:\Users\Atakan\Desktop\Project\React-Native-AwesomeProject\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from C:\Users\Atakan\Desktop\Project\React-Native-AwesomeProject\android\app\src\main\AndroidManifest.xml:17:9-48
 	android:configChanges
 		ADDED from C:\Users\Atakan\Desktop\Project\React-Native-AwesomeProject\android\app\src\main\AndroidManifest.xml:16:9-79
 	android:name
